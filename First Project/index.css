@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+  }
+  h1,
+  h2{
+    font-family: 'Estonia', cursive;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+  }
+footer{
+  text-align: center;
+  font-size: 20px;
+}
